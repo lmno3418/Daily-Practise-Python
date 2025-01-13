@@ -1,6 +1,6 @@
 # Milestone 1: Python Basics
 
-## Key Concepts Covered:
+## Key Concepts Covered
 - Variables & Data Types
 - Input/Output
 - Loops
@@ -10,7 +10,7 @@
 - Functions
 - Dictionaries
 
-## Practice Plan:
+## Practice Plan
 
 ### Variables and Data Types
 - **Tasks:**
@@ -64,3 +64,13 @@
 
 ### 2. CodeChef
 - **Problem:** [FLOW007 - Find the Remainder](https://www.codechef.com/viewsolution/1122629090)
+
+## Loops
+- Print numbers from 1 to N using while and for loops.
+- Find the sum of digits of a number using a loop.
+- Create a pattern such as Floyd’s triangle. (NEEDS PRACTISE A LOT)
+- Check if a number is prime.
+
+### Practice Questions
+- HackerRank: [Loops](https://www.hackerrank.com/challenges/python-loops/submissions/code/417315088)
+- GeeksforGeeks: [Sum of Series](https://www.geeksforgeeks.org/problems/sum-of-series2811/1)
