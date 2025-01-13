@@ -1,3 +1,4 @@
+#Print numbers from 1 to N using while and for loops.
 n=int(input("Enter any number N: "))
 
 i=1
