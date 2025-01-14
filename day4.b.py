@@ -10,3 +10,4 @@ if temp==sum:
     print("Palindrome")
 else:
     print("Not Palindrome")
+    
